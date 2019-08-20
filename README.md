@@ -24,4 +24,4 @@ KAIST Campus Resource Planning(CRP)인 K-Garden을 구성하는 시스템은 각
 > 주 :
 > - <img src="Pics/workInProgress.jpg" width="25" height="25">은 개발 중임을 나타내며,
 > - [인사시스템](Lavender)은 현재 서비스 중이며,
-> - 협업시스템은 계획 중임을 나태냅니다.
+> - 협업시스템은 계획 중임을 나타냅니다.
