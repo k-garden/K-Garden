@@ -1,4 +1,4 @@
-##CRP(Campus Resource Planning) 3.0@KAIST
+## CRP(Campus Resource Planning) 3.0@KAIST
 
 본 문서는 한국과학기술원 대학정보화사업에서 수행하는 대학정보화시스템(CRP3.0@KAIST)을 구축하기 위한 시스템 설계 개념, 구조와 소요 기술 요소를 기술하여 사업 진행에 기초로 활용할 수 있도록 하는데에 그 목적이 있다.
 
