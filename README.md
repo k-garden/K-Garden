@@ -9,16 +9,15 @@ KAIST Campus Resource Planning(CRP)인 K-Garden을 구성하는 시스템은 각
 
 -	[학사시스템](Lilac) <img src="Pics/workInProgress.jpg" width="25" height="25">
 -	[연구지원시스템](Calla) <img src="Pics/workInProgress.jpg" width="25" height="25">
--	[인사시스템](Lavender), 자산관리시스템 <img src="Pics/workInProgress.jpg" width="25" height="25">, 재무시스템 <img src="Pics/workInProgress.jpg" width="25" height="25">, ...
+-	[인사시스템](Lavender) <img src="Pics/workInProgress.jpg" width="25" height="25">, 자산관리시스템, 재무시스템, ...
 -	협업시스템
--	[인프라시스템](Vervena)
+-	[인프라시스템](Vervena) <img src="Pics/workInProgress.jpg" width="25" height="25">
 
 각 시스템은 제공하는 기능에 따라 이를 지원하는 서비스로 구성되어 있습니다. 각 시스템의 자세한 내용을 각각의 repository에서 기술합니다.
 
 또한 repository에는 다음과 같은 내용이 있습니다.
 
 -	[백서](WhitePapers/whitePaper.md)
--	[저작권](LICENSE)
 
 
 > 주 :
